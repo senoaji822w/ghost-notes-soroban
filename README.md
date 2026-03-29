@@ -13,6 +13,7 @@
 ### 🌟 Project Vision
 
 We believe in a digital world where data is not just static, but dynamic and sovereign. Our vision is to provide a platform for:
+
 - **Episodic Secrecy**: Creating data that reacts to interaction.
 - **Privacy through Mutation**: Protecting content by changing it upon unauthorized or repeated viewing.
 - **On-Chain Dynamism**: Demonstrating the power of Soroban's state-changing capabilities in real-time.
@@ -21,21 +22,22 @@ We believe in a digital world where data is not just static, but dynamic and sov
 
 ### 🚀 Key Features
 
-| Feature | Description |
-| :--- | :--- |
+| Feature              | Description                                                                 |
+| :------------------- | :-------------------------------------------------------------------------- |
 | **Dynamic Mutation** | Content changes automatically based on the number of views (`visit_count`). |
-| **Secure Storage** | Powered by Stellar's Soroban instance storage for permanent availability. |
-| **Privacy First** | Traditional static data is replaced with evolving narratives. |
-| **Lightweight** | Optimized Rust implementation for low-cost transactions. |
+| **Secure Storage**   | Powered by Stellar's Soroban instance storage for permanent availability.   |
+| **Privacy First**    | Traditional static data is replaced with evolving narratives.               |
+| **Lightweight**      | Optimized Rust implementation for low-cost transactions.                    |
 
 ---
 
 ### 🔗 Deployed Smartcontract Details
 
 > [!IMPORTANT]
-> **Contract ID:** `CBLU4IUASQ4WUMOXBFLZRSBBLILGOH33GS4LUPKFBCCCMJCDQNMF7G2M`
+> **Contract ID:** `CD6TZ5S7U4KAHX54XGOLIGO53AYH63TLAS43CDAONM4BCWSFGJTGEPEO`
 
 #### Registry Screenshot
+
 ![Explorer Screenshot](screenshot.png)
 
 ---
